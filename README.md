@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nareshnani1084
 - I am Currently Pursuing my Masters in Business Analytics at Western New England University
-- 👀 I’m interested in Data Science and Business Analytics
 - Currently working on a Project named Automated Query Generator
+- 👀 I’m interested in Data Science and Business Analytics
 - 💞️ I’m looking to collaborate on something keeps me engaging in the world of data
 - 📫 How to reach me?- you can mail me at nareshchethala99@outlook.com
 - 😄 Pronouns: He
